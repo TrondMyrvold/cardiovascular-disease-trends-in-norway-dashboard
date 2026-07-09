@@ -82,7 +82,6 @@ Between 2021 and 2025, the overall number of registered cardiovascular disease p
 
 Hypertension (I10–I15) consistently remained the most common cardiovascular diagnosis throughout the study period, accounting for the largest patient population every year. Atrial fibrillation and ischemic heart disease also represented a substantial proportion of registered diagnoses and remained among the most prevalent conditions.
 
----
 
 ## Changes Over Time
 
@@ -92,20 +91,15 @@ Heart failure was the diagnosis group that showed the strongest relative increas
 
 In contrast, ischemic heart disease gradually declined across the study period, suggesting a reduction in registered patients for this diagnosis. Several acute cardiovascular conditions, including acute myocardial infarction and acute stroke, changed only slightly from year to year and remained comparatively stable.
 
-The yearly percentage change matrix highlights that most diagnosis groups experienced relatively small annual changes, typically only a few percentage points between consecutive years. This indicates that cardiovascular disease patterns in Norway changed gradually rather than through sudden shifts.
+The matrix highlights yearly changes in the diagnosis groups, and all of them shows relatively small annual changes, typically only a few percentage points between consecutive years. This indicates that cardiovascular disease patterns in Norway changed gradually rather than through sudden shifts.
 
----
-
-## Overall Story
+# Overall Story
 
 The dashboard illustrates that cardiovascular disease remains a stable public health challenge in Norway. Rather than dramatic increases in total patient numbers, the most interesting findings are the changing composition of diagnoses over time.
 
 Chronic conditions such as hypertension and heart failure became increasingly prominent during the five-year period, while ischemic heart disease showed a gradual decline. These contrasting trends demonstrate how disease patterns can evolve even when the overall number of patients remains relatively constant.
 
-The project demonstrates how interactive dashboards and dynamic DAX calculations can be used to identify meaningful healthcare trends and support exploratory analysis of publicly available health statistics.
----
-
-# Feature Engineering
+## Feature Engineering
 
 Several DAX measures were created to improve dashboard interactivity.
 
@@ -140,7 +134,6 @@ These measures update dynamically based on the selected diagnosis group and year
 - Overall patient volumes remained relatively stable between 2021 and 2025.
 - Heart failure experienced the highest relative growth among the diagnosis groups.
 - Most diagnosis groups showed only modest year-over-year variation.
-- Interactive filtering makes it easy to compare diagnosis groups and yearly developments.
 
 ---
 
