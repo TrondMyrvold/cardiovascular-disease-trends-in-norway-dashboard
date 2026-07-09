@@ -154,7 +154,7 @@ Through this project I improved my experience with:
 
 # Disclaimer
 
-This project was created as part of my learning journey in Data Analytics.
+This project was created as a learning project to get more experience working with real-world health care data.
 
 The primary objective was to practice Power BI, DAX, dashboard design, and interactive data visualization using publicly available healthcare data from the Norwegian Institute of Public Health (FHI).
 
