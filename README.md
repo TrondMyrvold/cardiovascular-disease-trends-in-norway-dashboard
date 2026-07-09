@@ -70,7 +70,7 @@ Users can:
 - Compare annual percentage changes
 - View dynamic KPI cards
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/dashboard_fhi.png)
 
 ---
 
