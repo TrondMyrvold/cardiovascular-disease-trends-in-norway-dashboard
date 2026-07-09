@@ -24,7 +24,7 @@ The objectives of this project were to:
 
 # Dataset
 
-- **Source:** Norwegian Institute of Public Health (FHI)
+- **Source:** Norwegian Institute of Public Health (FHI) https://statistikk.fhi.no/
 - **Format:** Excel (.xlsx)
 - **Data Type:** Public healthcare statistics
 
